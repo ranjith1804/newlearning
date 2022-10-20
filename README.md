@@ -1,2 +1,0 @@
-# newlearning
-hi hello
